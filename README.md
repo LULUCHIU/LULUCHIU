@@ -46,11 +46,11 @@ I specialize in multi-omics integration, immuno-oncology, and AI-driven bioinfor
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lutingchiu&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LULUCHIU&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lutingchiu&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=LULUCHIU&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
